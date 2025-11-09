@@ -90,5 +90,4 @@ A partir de 2018, observou-se queda nas exportações para **EUA e China**, devi
 
 ---
 
-## Estrutura do Projeto
 
